@@ -1,16 +1,11 @@
-# Welcome to your Lovable project
-
+EVENTSYNC
 ## Project info
-
-**URL**: https://lovable.dev/projects/ccdb208e-6487-4546-81c1-572ff92a209d
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/ccdb208e-6487-4546-81c1-572ff92a209d) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
